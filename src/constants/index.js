@@ -29,7 +29,7 @@ const words = [
 ];
 
 const counterItems = [
-    {value: 15, suffix: "+", label: "Years of Experience"},
+    {value: 15, suffix: "+", label: "Years of ExperienceSection"},
     {value: 200, suffix: "+", label: "Satisfied Clients"},
     {value: 108, suffix: "+", label: "Completed Projects"},
     {value: 90, suffix: "%", label: "Client Retention Rate"},
@@ -145,6 +145,8 @@ const techStackIcons = [
     },
 ];
 
+
+// TIPS: use strong action verbs, use specific tangible metrics/achievable results,
 const expCards = [
     {
         review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
